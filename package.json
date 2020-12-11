@@ -1,14 +1,15 @@
 {
   "name": "protodev",
   "version": "1.0.0",
-  "description": "",
+  "description": "A quick and easy development environment using snowpack (esmodule bundler/package) and skypack(cdn packages)",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["snowpack", "skypack", "template", "prototyping", "javascript"],
   "author": "",
   "license": "ISC",
   "devDependencies": {
