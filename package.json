@@ -9,7 +9,13 @@
     "build": "snowpack build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["snowpack", "skypack", "template", "prototyping", "javascript"],
+  "keywords": [
+    "snowpack",
+    "skypack",
+    "template",
+    "prototyping",
+    "javascript"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
